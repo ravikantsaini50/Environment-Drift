@@ -1,0 +1,8 @@
+project_id  = "cloudnotes-local"
+region      = "local"
+name_prefix = "cloudnotes"
+web_cidr    = "10.10.1.0/24"
+app_cidr    = "10.10.2.0/24"
+db_cidr     = "10.10.3.0/24"
+bucket_name = "cloudnotes-assets-local"
+db_name     = "cloudnotes"
